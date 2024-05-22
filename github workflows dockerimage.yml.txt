@@ -33,4 +33,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-dockerhub-username/ecommerce-application:latest
+        tags: dennis434/ecommerce-application:latest
